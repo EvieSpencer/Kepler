@@ -1,11 +1,11 @@
-# Changelog
+!*Changelog
 All notable changes to this project will be documented in this file.
 
 [The Official Roadmap](http://bit.ly/KeplerJsRoadmap)
 
 [Downloadable releases](https://github.com/Keplerjs/Kepler/releases)
 
-## [Next Version]
+!# [Next Version]
 ...
 
 ## v1.7.0 - Public Contents
@@ -372,3 +372,4 @@ All notable changes to this project will be documented in this file.
 - show created places in user panel
 - show favorites place of users in panel
 - updates i18n for fr
+ 
